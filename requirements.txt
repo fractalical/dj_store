@@ -1,5 +1,10 @@
 asgiref==3.6.0
 Django==3.2.12
+flake8==6.0.0
+isort==5.11.4
+mccabe==0.7.0
 Pillow==9.4.0
+pycodestyle==2.10.0
+pyflakes==3.0.1
 pytz==2022.7
 sqlparse==0.4.3
