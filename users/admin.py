@@ -4,7 +4,7 @@ from products.admin import BasketAdmin
 from users.models import EmailVerification, User
 
 # Register your models here.
-# admin.site.register(User)
+
 
 @admin.register(User)
 class UserAdmon(admin.ModelAdmin):
